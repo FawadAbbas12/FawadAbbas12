@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FawadAbbas12
-- 👀 I’m interested in ... application of deep-learning in distributed and non uniform networks of inteligent devices
+- 👀 I’m interested in ... application of deep-learning in distributed and non uniform networks of intelligent devices
 - 🌱 I’m currently learning ... development and deployment of swarms 
 - 💞️ I’m looking to collaborate on ... swarm robotics (applications related to micro drones) and vision processing
 - 📫 How to reach me ... fawad.abbas04@gmail.com
